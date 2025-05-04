@@ -60,6 +60,3 @@ A detailed **Project Report** is available for download, where we discuss the ga
 
 We welcome contributions to the project. If you'd like to contribute, feel free to fork this repository, make your changes, and submit a pull request. For any issues or improvements, open an issue in the repository.
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
