@@ -12,7 +12,7 @@
 - **Multiplayer Mode**: Supports two players who alternate turns to navigate the maze.
 
 ## Demo Video:
-[Watch the demo of the game here](https://youtu.be/demo-link) *(replace this link with your actual video link)*.
+[Watch the demo of the game here](https://youtu
 
 ## How to Play:
 1. **Objective**: The goal is to be the first to reach the center of the maze. Avoid stepping on traps and use memory tokens strategically to navigate the maze.
@@ -30,7 +30,7 @@
 ### Steps to Run:
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Umer-ship-it-bot/memory-maze.git
+   git clone https://github.com/Umer-ship-it-bot/memory-maze-game.git
    ```
 
 2. **Install Dependencies**:
@@ -42,7 +42,7 @@
 3. **Run the Game**:
    After installation, run the game using the following command:
    ```
-   python memory_maze.py
+   python final_project.py
    ```
 
 4. **Gameplay**:
