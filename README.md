@@ -12,7 +12,7 @@
 - **Multiplayer Mode**: Supports two players who alternate turns to navigate the maze.
 
 ## Demo Video:
-
+https://drive.google.com/file/d/1foi-lBW1IJMTdsLMYoD4zeSGPXe76hv-/view?usp=sharing
 
 ## How to Play:
 1. **Objective**: The goal is to be the first to reach the center of the maze. Avoid stepping on traps and use memory tokens strategically to navigate the maze.
